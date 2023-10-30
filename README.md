@@ -7,56 +7,6 @@ futebol24hrs.mma
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> MMA Esportes 24 horas </title>
     <link rel="shortcut icon" href="E3u6NYhXoAASO13.jpg" type="image/x-icon">
-    <style>
-        body {
-            background-color: rgb(225, 7, 7);
-        }
-    </style>
-        <title>MMA Esportes 24 horas</title>
-        <style>
-            body {
-                background-color: hsl(120, 68%, 41%);
-                color: rgb(0, 11, 0);
-                text-align: center;
-                display: center ;
-                flex-direction: column;
-                align-items: center;
-                justify-content: center;
-                margin: 0;
-                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-            }
-    
-            h1 {
-                display: center;
-                align-items: flex;
-                margin: 0; 
-            }
-    
-            .soccer-ball {
-                width: 200px;
-                height: 200px;
-                background: radial-gradient(circle at 60% 60%, transparent 17%, rgb(42, 242, 2) 25%); /* Criação de uma bola CSS simples */
-                animation: spin 1s linear infinite;
-                margin-right: 50px; 
-            }
-    
-            @keyframes spin {
-                0% { transform: rotate(0deg); }
-                100% { transform: rotate(360deg); }
-            }
-        </style>
-    
-
-    </head>
-    <body>
-        <h1>
-            <div class="soccer-ball"></div>
-    </head>
-    <body>
-        <div class="ball"></div>
-    </body>
-    
-    
     <h1> 𝑀𝑀𝐴 𝐸𝑠𝑝𝑜𝑟𝑡𝑒𝑠 24 ℎ𝑜𝑟𝑎𝑠 !</h1>
     <hr>
     <p>
